@@ -32,5 +32,4 @@ streamlit run main.py
 
 ## Reference Book
 ![91GcaWaZrXL](https://github.com/AminHaghdadi/Medical_ChatBot/assets/87299853/287ebadf-ee1a-4209-a4b2-1113aca28c51)
-[Download link](71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf)
-
+you can find this book in Data folder
