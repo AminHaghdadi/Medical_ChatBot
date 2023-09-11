@@ -1,0 +1,8 @@
+pypdf
+langchain
+torch
+bitsandbytes
+transformers
+sentence_transformers
+faiss_gpu
+stramlit
