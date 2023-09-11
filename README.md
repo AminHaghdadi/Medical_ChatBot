@@ -19,10 +19,18 @@ To deploy this project run
   pip install -r requirement.txt 
 ```
 3:
+Download the llama2-7b model from this link :
+[Llama-2-7B](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin)
 
+4:
+Add model to llama2-7b folder
 
-
-4: Run in Terminal
+5: Run in Terminal
 ```bash
 streamlit run main.py
 ```
+
+## Reference Book
+![91GcaWaZrXL](https://github.com/AminHaghdadi/Medical_ChatBot/assets/87299853/287ebadf-ee1a-4209-a4b2-1113aca28c51)
+[Download link](71763-gale-encyclopedia-of-medicine.-vol.-1.-2nd-ed.pdf)
+
